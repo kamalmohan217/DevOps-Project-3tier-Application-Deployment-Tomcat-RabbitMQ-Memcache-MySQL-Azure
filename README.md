@@ -17,6 +17,7 @@ create user and provide permission to the user.
 ![image](https://github.com/kamalmohan217/DevOps-Project-3tier-Application-Deployment-Tomcat-RabbitMQ-Memcache-MySQL-Azure/assets/128888356/34051d29-4953-46f7-b23b-f5ee7cce65de)
 ![image](https://github.com/kamalmohan217/DevOps-Project-3tier-Application-Deployment-Tomcat-RabbitMQ-Memcache-MySQL-Azure/assets/128888356/002786c3-6fe2-452c-9324-43adee50ea0b)
 **Creation of RabbitMQ Cluster**
+
 **Node-1**
 ![image](https://github.com/kamalmohan217/DevOps-Project-3tier-Application-Deployment-Tomcat-RabbitMQ-Memcache-MySQL-Azure/assets/128888356/46f9fb03-3085-4afd-9da2-b93eddd62217)
 **Node-2**
