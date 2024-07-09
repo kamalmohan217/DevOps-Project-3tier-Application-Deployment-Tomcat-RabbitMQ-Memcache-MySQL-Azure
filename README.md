@@ -26,7 +26,7 @@ create user and provide permission to the user.
 ![image](https://github.com/kamalmohan217/DevOps-Project-3tier-Application-Deployment-Tomcat-RabbitMQ-Memcache-MySQL-Azure/assets/128888356/513c1a66-2dce-4ba3-afe8-7016b66cecc1)
 ![image](https://github.com/kamalmohan217/DevOps-Project-3tier-Application-Deployment-Tomcat-RabbitMQ-Memcache-MySQL-Azure/assets/128888356/6eb137ec-7949-40c0-9c74-ced722c3ac8c)
 ```
-Run below command on Node-1 to set the policy for High Availability (HA) in RabbitMQ Cluster.
+Run below command on Node-1 to set the policy for High Availability (HA) in RabbitMQ Cluster. As shown above in the screenshot.
 rabbitmqctl set_policy ha-all ".*" '{"ha-mode":"all","ha-sync-mode":"automatic"}'
 ```
 Finally copy the Public IP of the Application Gateway of RabbitMQ and create the Record Set in Azure DNS Zone. Access the URL and you will see the default console for RabbitMQ, you can use the initial username and password as guest and login into the RabbitMQ console. 
