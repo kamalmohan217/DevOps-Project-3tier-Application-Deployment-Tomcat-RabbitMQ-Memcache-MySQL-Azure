@@ -4,6 +4,7 @@ Using the Terraform Script present in this repository create the end-to-end Infr
 Using the Terraform Script present in this repository create the end-to-end Infrastructure.
 <br><br/>
 For RabbitMQ Installation and cluster creation followed below procedure.
+
 **Node-1 (rabbitmq-vm-1)**
 ![image](https://github.com/kamalmohan217/DevOps-Project-3tier-Application-Deployment-Tomcat-RabbitMQ-Memcache-MySQL-Azure/assets/128888356/6f955d52-9bfd-4079-99d6-85a78cd07179)
 ![image](https://github.com/kamalmohan217/DevOps-Project-3tier-Application-Deployment-Tomcat-RabbitMQ-Memcache-MySQL-Azure/assets/128888356/314d7b17-c65d-45f9-be7d-dc9b810d2fca)
